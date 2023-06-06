@@ -51,3 +51,5 @@ node app.js
 ```
 
 Con estos pasos ya deberías de tener tu servicio funcionando en modo local 😊
+
+si deseas leer y ver un ejemplo de como  realizar las peticiones  puedes ver la siguiente documentacion : [Cloudinary Microservice](https://documenter.getpostman.com/view/23520684/2s93sZ5tjc)
